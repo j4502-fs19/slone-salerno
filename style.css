@@ -12,3 +12,8 @@ h1{
   font-family: Georgia, "Times New Roman",serif;
 
 }
+
+body {
+  text-align: center;
+  background-color: #ebe3ce;
+}
