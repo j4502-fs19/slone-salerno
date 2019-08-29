@@ -17,3 +17,9 @@ body {
   text-align: center;
   background-color: #ebe3ce;
 }
+
+
+ul{
+  padding: 0;
+  list-style-type: none;
+}
