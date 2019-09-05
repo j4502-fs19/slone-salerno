@@ -36,6 +36,9 @@ body {
   background-color:#FFFFE7 ;
 }
 
+a:link, a:visited {
+  text-decoration: none;
+}
 
 #nav {
   padding:0;
