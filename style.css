@@ -51,14 +51,18 @@ a:link, a:visited {
 
 #nav a:link, #nav a:visited {
   display: block;
-  color:black   ;
+  color:black;
   background-color: pink;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
   font-family:'PT Serif', serif;
   padding: 4px;
+
 }
+
+
+
 #nav a:hover, #nav a:active {
   background-color: purple;
 
