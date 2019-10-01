@@ -58,6 +58,7 @@ a:link, a:visited {
   text-decoration: none;
   font-family:'PT Serif', serif;
   padding: 4px;
+  flex-direction: row;
 
 }
 
@@ -68,6 +69,22 @@ a:link, a:visited {
 
 }
 
+#nav {
+  display:flex;
+  Flex-direction:column;
+}
 img {
   border: none;
+}
+
+@media screen and (min-width:599px){
+
+
+}
+
+@media (min-width: 599px) {
+#nav {
+	flex-direction:row;
+	justify-content: space-around;
+	}
 }
