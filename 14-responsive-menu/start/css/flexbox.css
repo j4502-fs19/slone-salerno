@@ -13,4 +13,9 @@
 	justify-content: center;
 	}
 }
-]
+
+@media (min-width:799px){
+.item-1{
+	margin-right:auto;
+	}
+}
